@@ -74,6 +74,7 @@ public class tp3POO {
     }
 }
 
+
 class Mascota {
     String nombre;
     String especie;
